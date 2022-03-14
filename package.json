@@ -1,0 +1,29 @@
+{
+  "name": "node-tutorial",
+  "version": "1.0.0",
+  "description": "Node学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyleezhang/node_-tutorial.git"
+  },
+  "keywords": [
+    "Node",
+    "学习笔记"
+  ],
+  "author": "kyleezhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyleezhang/node_-tutorial/issues"
+  },
+  "homepage": "https://github.com/kyleezhang/node_-tutorial#readme",
+  "engines": {
+    "node": "v17.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  }
+}
